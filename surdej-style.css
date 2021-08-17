@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    margin: 0 auto 0 auto;
+    font-family: 'MonteCarlo', cursive;
+    font-size: 500%;
+}
+
+h3 {
+    margin: 5% auto 5% auto;
+}
+
+ul {
+    margin-left: 30%;
+    text-align: left;
+    list-style: none;
+}
+
+li{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.title-container{
+    margin: 5% 10% 5% 10%;
+    text-align: center;
+}
+
+.intro-container{
+    margin: 5% 20% 5% 20%;
+}
+
+.row{
+    text-align: center;
+    margin: 5% 1% 5% 1%;
+}
+
+.content-container{
+    margin: 5% 10% 5% 10%;
+}
