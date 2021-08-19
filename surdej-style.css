@@ -4,28 +4,25 @@ body {
 }
 
 h1 {
+    text-align: center;
     margin: 0 auto 0 auto;
     font-family: 'MonteCarlo', cursive;
     font-size: 500%;
 }
 
 h3 {
+    margin: 5% 5% 5% 5%;
+}
+
+.image {
+    display: block;
     margin: 5% auto 5% auto;
-}
-
-ul {
-    margin-left: 30%;
-    text-align: left;
-    list-style: none;
-}
-
-li{
-    margin-top: 1%;
-    margin-bottom: 1%;
+    width: 50%;
 }
 
 .title-container{
-    margin: 5% 10% 5% 10%;
+    background-color: #F6EEC7;
+    padding: 5% 10% 5% 10%;
     text-align: center;
 }
 
@@ -34,10 +31,22 @@ li{
 }
 
 .row{
-    text-align: center;
+    text-align: left;
     margin: 5% 1% 5% 1%;
 }
 
 .content-container{
     margin: 5% 10% 5% 10%;
+}
+
+.bottom-container{
+    background-color: #F6EEC7;
+    padding: 5% 1% 5% 1%;
+    text-align:center;
+}
+
+.social-link{
+    color:black;
+    margin: 5% 1% 5% 1%;
+
 }
